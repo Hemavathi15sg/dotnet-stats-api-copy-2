@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hemavathin\\OneDrive - CANARYS AUTOMATIONS LIMITED\\Documents\\Projects\\Speckit\\dotnet-stats-api-copy-2\\PlayerStatsAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hemavathin\\OneDrive - CANARYS AUTOMATIONS LIMITED\\Documents\\Projects\\Speckit\\dotnet-stats-api-copy-2\\PlayerStatsAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hemavathin\\OneDrive - CANARYS AUTOMATIONS LIMITED\\Documents\\Projects\\Speckit\\dotnet-stats-api-copy-2\\PlayerStatsAPI.csproj",
+        "projectName": "PlayerStatsAPI",
+        "projectPath": "C:\\Users\\hemavathin\\OneDrive - CANARYS AUTOMATIONS LIMITED\\Documents\\Projects\\Speckit\\dotnet-stats-api-copy-2\\PlayerStatsAPI.csproj",
+        "packagesPath": "C:\\Users\\hemavathin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hemavathin\\OneDrive - CANARYS AUTOMATIONS LIMITED\\Documents\\Projects\\Speckit\\dotnet-stats-api-copy-2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hemavathin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.WebApi": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNet.WebApi.WebHost": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

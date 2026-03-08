@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfyTw4zsam8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hemavathin\\OneDrive - CANARYS AUTOMATIONS LIMITED\\Documents\\Projects\\Speckit\\dotnet-stats-api-copy-2\\PlayerStatsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hemavathin\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\hemavathin\\.nuget\\packages\\microsoft.aspnet.webapi\\5.2.9\\microsoft.aspnet.webapi.5.2.9.nupkg.sha512",
+    "C:\\Users\\hemavathin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
+    "C:\\Users\\hemavathin\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
+    "C:\\Users\\hemavathin\\.nuget\\packages\\microsoft.aspnet.webapi.webhost\\5.2.9\\microsoft.aspnet.webapi.webhost.5.2.9.nupkg.sha512",
+    "C:\\Users\\hemavathin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 12.0.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\hemavathin\\OneDrive - CANARYS AUTOMATIONS LIMITED\\Documents\\Projects\\Speckit\\dotnet-stats-api-copy-2\\PlayerStatsAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\hemavathin\\OneDrive - CANARYS AUTOMATIONS LIMITED\\Documents\\Projects\\Speckit\\dotnet-stats-api-copy-2\\PlayerStatsAPI.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

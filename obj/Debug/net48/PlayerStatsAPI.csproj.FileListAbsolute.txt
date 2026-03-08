@@ -1,0 +1,8 @@
+C:\Users\hemavathin\OneDrive - CANARYS AUTOMATIONS LIMITED\Documents\Projects\Speckit\App_modernization\legacy-code\dotnet-stats-api\obj\Debug\net48\PlayerStatsAPI.csproj.AssemblyReference.cache
+C:\Users\hemavathin\OneDrive - CANARYS AUTOMATIONS LIMITED\Documents\Projects\Speckit\App_modernization\legacy-code\dotnet-stats-api\obj\Debug\net48\PlayerStatsAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hemavathin\OneDrive - CANARYS AUTOMATIONS LIMITED\Documents\Projects\Speckit\App_modernization\legacy-code\dotnet-stats-api\obj\Debug\net48\PlayerStatsAPI.exe.config
+C:\Users\hemavathin\OneDrive - CANARYS AUTOMATIONS LIMITED\Documents\Projects\Speckit\App_modernization\legacy-code\dotnet-stats-api\obj\Debug\net48\PlayerStatsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemavathin\OneDrive - CANARYS AUTOMATIONS LIMITED\Documents\Projects\Speckit\App_modernization\legacy-code\dotnet-stats-api\obj\Debug\net48\PlayerStatsAPI.AssemblyInfoInputs.cache
+C:\Users\hemavathin\OneDrive - CANARYS AUTOMATIONS LIMITED\Documents\Projects\Speckit\App_modernization\legacy-code\dotnet-stats-api\obj\Debug\net48\PlayerStatsAPI.AssemblyInfo.cs
+C:\Users\hemavathin\OneDrive - CANARYS AUTOMATIONS LIMITED\Documents\Projects\Speckit\App_modernization\legacy-code\dotnet-stats-api\obj\Debug\net48\PlayerStatsAPI.csproj.CoreCompileInputs.cache
+C:\Users\hemavathin\OneDrive - CANARYS AUTOMATIONS LIMITED\Documents\Projects\Speckit\App_modernization\legacy-code\dotnet-stats-api\obj\Debug\net48\PlayerStatsAPI.sourcelink.json
